@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @j-alba-data
+- 👋 Hi, I’m Jose Alba
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics at Flatiron School
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/j-alba-data
 
 <!---
