@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Alba
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics at Flatiron School
+- 👀 I’m pursuing a career in Data Analytics
+- 🌱 I’m a gradaute from Flatiron School with a Certificate of Completion in Data Analytics
 - 📫 How to reach me linkedin.com/in/j-alba-data
 
 <!---
