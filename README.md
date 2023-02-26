@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jose Alba
-- 👀 I’m pursuing a career in Data Analytics
-- 🌱 I’m a gradaute from Flatiron School with a Certificate of Completion in Data Analytics
+- 👀 I’m pivoting from Data Analytics to pursue a career in Web Development
+- 🌱 My current educational background is a bachelor's in Business Management from Azusa Pacific University and a certificate in Data Analytics from Flatiron School
+- I am currently attending Fullstack Academy to study Web Development and anticipate a completion date of 10/23
 - 📫 How to reach me linkedin.com/in/j-alba-data
 
 <!---
