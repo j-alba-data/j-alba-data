@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose Alba
 - 👀 I’m currently work for an Amazon Fulfillment center as their Invetory Control and Quality Assurance Data Analyst
 - 🌱 My educational background is a bachelor's in Business Management from Azusa Pacific University and a certificate in Data Analytics from Flatiron School
-- I'm currently attending Correlation One to further my study in data analytics and anticipate a completion date of 06/24
+- 🎓 I also recently graduated with Honors from Correlation One with a certificate in Data Analytics
 - 📫 How to reach me linkedin.com/in/j-alba-data
 
 <!---
