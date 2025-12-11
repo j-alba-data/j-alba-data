@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Jose Alba!
-- 📚 I'm a student at Amazon Web Services Cloud Institute (ACI) studying to become a Cloud Application Developer.
-- 👀 I currently work for an Amazon Fulfillment Center as their Data Analyst.
-- 🌱 My educational background is a Bachelor's in Business Management from Azusa Pacific University and a certificate in Data Analytics from Flatiron School in New York.
+- 📚 I'm a graduate from AWS Cloud Institute (**ACI**) where I studied cloud application development (think SAM, Lambda, APIGateway, DynamoDB that kinda stuff).1
+- 👀 I currently work at **Flatiron School** as a data analytics technical coach.
+- 🌱 My educational background is a Bachelor's in Business Management from Azusa Pacific University and a certificate in **Data Analytics** from Flatiron School.
 - 🎓 I also completed a course with Correlation One, achieving an Honors certificate in Data Analytics.
-- 📫 How to reach me linkedin.com/in/j-alba-data
+- 🎓 I am also currently pursing a master's degree in data engineering at **WGU**.
+- 📫 How to reach me: **https://www.linkedin.com/in/j-alba-data**
 
 <!---
 j-alba-data/j-alba-data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
