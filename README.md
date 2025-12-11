@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Alba!
-- 📚 I'm a graduate from AWS Cloud Institute (**ACI**) where I studied cloud application development (think SAM, Lambda, APIGateway, DynamoDB that kinda stuff).1
+- 📚 I'm a graduate from AWS Cloud Institute (**ACI**) where I studied cloud application development (think SAM, Lambda, APIGateway, DynamoDB that kinda stuff).
 - 👀 I currently work at **Flatiron School** as a data analytics technical coach.
 - 🌱 My educational background is a Bachelor's in Business Management from Azusa Pacific University and a certificate in **Data Analytics** from Flatiron School.
 - 🎓 I also completed a course with Correlation One, achieving an Honors certificate in Data Analytics.
